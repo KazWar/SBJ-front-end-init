@@ -1,0 +1,37 @@
+{
+  "customerName": "Whirlpool",
+  "campaignOverview": {
+    "isEnabled": true,
+    "maxColumnCount": 3,
+    "showCampaignCategories": true,
+
+    "engb": {
+      "category": {
+        "id": 1,
+        "title": "Household Devices",
+        "thumbnail": null,
+
+        "campaigns": {
+          "id": 1,
+          "title": "Cashback!",
+          "summary": "Koop een Bison Poly Max en win een Bose Portable Home Speaker! U kunt zich nog 41 dagen registreren!",
+          "thumbnail": null
+        }
+      }
+    },
+    "nlnl": {
+      "category": {
+        "id": 2,
+        "title": "Huishoudapparaten",
+        "thumbnail": null
+      },
+
+      "campaigns": {
+        "id": 2,
+        "title": "Receive Your Cashback!",
+        "summary": "Hahahah!",
+        "thumbnail": null
+      }
+    }
+  }
+}

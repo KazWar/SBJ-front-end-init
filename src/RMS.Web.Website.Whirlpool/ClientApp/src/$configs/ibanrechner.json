@@ -1,0 +1,3 @@
+{
+  "schema": "<soapenv:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:ssl=\"https://ssl.ibanrechner.de/\">\n   <soapenv:Header/>\n   <soapenv:Body>\n      <ssl:validate_iban soapenv:encodingStyle=\"http://schemas.xmlsoap.org/soap/encoding/\">\n         <iban xsi:type=\"xsd:string\">?</iban>\n         <user xsi:type=\"xsd:string\">sbjrms</user>\n         <password xsi:type=\"xsd:string\">rms2011</password>\n         <account_holder xsi:type=\"xsd:string\">?</account_holder>\n      </ssl:validate_iban>\n   </soapenv:Body>\n</soapenv:Envelope>"
+}

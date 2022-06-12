@@ -1,0 +1,64 @@
+{
+  "general": {
+    "previous": "Previous",
+    "next": "Next",
+    "send": "Send",
+    "chooseLanguage": "Choose your language",
+    "loading": "Loading...",
+    "goBack": "Go back",
+    "uploadFile": "Upload file"
+  },
+  "pageTitles": {
+    "campaignOverview": "Campaign Overview"
+  },
+  "campaigns": {
+    "availableCampaigns": "Available Campaigns",
+    "expiredCampaigns": "Expired Campaigns",
+    "expiredMessage": "Campaign is expired!"
+  },
+  "registration": {
+    "registrationForm": "Registration Form",
+    "confirmIban": "Confirm your IBAN",
+    "edit": "Edit your registration.",
+    "enterPassword": "Enter your password.",
+    "incompleteFields": "Not all mandatory fields are (correctly) completed "
+  },
+  "thankYou": {
+    "thankYou": "Thank You!",
+    "checkYourEmail": "Your registration has been sent. Check your inbox for the confirmation e-mail.",
+    "goBackButton": "Go back",
+    "editMessage": "Your registration has been successfully updated!"
+  },
+  "errorPage": {
+    "heading": "Sorry!",
+    "somethingWentWrong": "Something went wrong with your registration. Please check whether or not all fields are filled in.",
+    "editMessage": "Your registration not updated, please try again!"
+  },
+  "footer": {
+    "socialMedia": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "contact": "",
+    "contactLink": "",
+    "philips": "",
+    "philipsLink": "",
+    "privacyAgreement": "Privacy Notice",
+    "privacyAgreementLink": "",
+    "cookiePolicy": "Cookie Notice",
+    "cookiePolicyLink": "",
+    "userPolicy": "Terms of use",
+    "userPolicyLink": "",
+    "copywright": ""
+  },
+  "header": {
+    "logoLink": "",
+    "home": "Home"
+  },
+  "component": {
+    "filepond": {
+      "labelIdle": "<span class='filepond--label-action'>Upload file</span>"
+    }
+  }
+}

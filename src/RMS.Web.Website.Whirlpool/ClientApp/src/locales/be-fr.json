@@ -1,0 +1,62 @@
+{
+  "general": {
+    "previous": "Précédente",
+    "next": "Suivant",
+    "send": "Envoyer",
+    "chooseLanguage": "Choisissez votre langue",
+    "loading": "Page de chargement...",
+    "goBack": "Retourner",
+    "uploadFile": "Téléverser un fichier"
+  },
+  "pageTitles": {
+    "campaignOverview": "Aperçu de la campagne"
+  },
+  "campaigns": {
+    "availableCampaigns": "Campagnes disponibles ",
+    "expiredCampaigns": "Campagnes expirées",
+    "expiredMessage": "La campagne a expiré!"
+  },
+  "registration": {
+    "registrationForm": "Formulaire d'inscription",
+    "confirmIban": "Confirmez votre IBAN",
+    "edit": "Modifier votre inscription.",
+    "enterPassword": "Tapez votre mot de passe.",
+    "incompleteFields": "Tous les champs obligatoires ne sont pas (correctement) remplis "
+  },
+  "thankYou": {
+    "thankYou": "Merci !",
+    "checkYourEmail": "Votre inscription a été envoyée. Vérifiez votre e-mail pour confirmation.",
+    "goBackButton": "Retourner",
+    "editMessage": "Votre inscription a été mise à jour avec succès!"
+  },
+  "errorPage": {
+    "heading": "Malheureusement !",
+    "somethingWentWrong": "Une erreur s'est produite lors de votre inscription. Vérifiez si vous avez rempli tous les champs.",
+    "editMessage": "Votre inscription n'est pas mise à jour, veuillez réessayer!"
+  },
+  "footer": {
+    "socialMedia": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "contact": "",
+    "contactLink": "",
+    "privacyAgreement": "Déclaration de confidentialité",
+    "privacyAgreementLink": "",
+    "cookiePolicy": "Politique de cookies",
+    "cookiePolicyLink": "",
+    "userPolicy": "Conditions d'utilisation",
+    "userPolicyLink": "",
+    "copywright": ""
+  },
+  "header": {
+    "logoLink": "",
+    "home": "Page d'accueil"
+  },
+  "component": {
+    "filepond": {
+      "labelIdle": "<span class='filepond--label-action'>Téléverser un fichier</span>"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+<Project>
+
+  <PropertyGroup>
+    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Version>8.7.0</Version>
+  </PropertyGroup>
+
+</Project>

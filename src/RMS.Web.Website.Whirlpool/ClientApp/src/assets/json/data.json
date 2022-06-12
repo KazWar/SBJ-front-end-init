@@ -1,0 +1,300 @@
+[
+  {
+    "fieldType": "InputText",
+    "name": "First Name",
+    "label": "Voornaam",
+    "values": null,
+    "maxlength": 255,
+    "required": true,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Last Name",
+    "label": "Achternaam",
+    "values": null,
+    "maxlength": 255,
+    "required": true,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Zip Code",
+    "label": "Postcode",
+    "values": null,
+    "maxlength": 6,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "House Number",
+    "label": "Huisnummer",
+    "values": null,
+    "maxlength": 255,
+    "required": true,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Street Name",
+    "label": "Straat",
+    "values": null,
+    "maxlength": 255,
+    "required": true,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Residence",
+    "label": "Woonplaats",
+    "values": null,
+    "maxlength": 255,
+    "required": true,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Country",
+    "label": "Land",
+    "values": null,
+    "maxlength": 255,
+    "required": true,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Email Address",
+    "label": "E-mail Adres",
+    "values": null,
+    "maxlength": 255,
+    "required": true,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Phone Number",
+    "label": "Telefoonnummer",
+    "values": null,
+    "maxlength": 255,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "PageSeparator",
+    "name": "Page Separator",
+    "label": "Pagina onderbreker",
+    "values": null,
+    "maxlength": 0,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": []
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Company Name",
+    "label": "Bedrijfsnaam",
+    "values": null,
+    "maxlength": 255,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Legal Form",
+    "label": "Bedrijfsvorm",
+    "values": null,
+    "maxlength": 255,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputNumber",
+    "name": "Business Number",
+    "label": "KvK nummer",
+    "values": null,
+    "maxlength": 255,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Vat Number",
+    "label": "BTW nummer",
+    "values": null,
+    "maxlength": 255,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Model",
+    "label": "Model",
+    "values": null,
+    "maxlength": 255,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "DatePicker",
+    "name": "Purchase Date",
+    "label": "Aankoopdatum",
+    "values": null,
+    "maxlength": 255,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": "PurchaseDate",
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Store Purchased",
+    "label": "Winkel",
+    "values": null,
+    "maxlength": 255,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "FileUploader",
+    "name": "Invoice Image Path",
+    "label": "Aankoopnota",
+    "values": null,
+    "maxlength": 1000000000,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": "InvoiceImagePath",
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "FileUploader",
+    "name": "Serial Number Image",
+    "label": "Serienummer foto",
+    "values": null,
+    "maxlength": 1000000000,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  },
+  {
+    "fieldType": "InputText",
+    "name": "Serial Number",
+    "label": "Serienummer",
+    "values": null,
+    "maxlength": 255,
+    "required": false,
+    "readonly": false,
+    "inputmask": null,
+    "IsPurchaseRegistration": false,
+    "PurchaseRegistrationField": null,
+    "formFieldValueList": [
+
+    ]
+  }
+]

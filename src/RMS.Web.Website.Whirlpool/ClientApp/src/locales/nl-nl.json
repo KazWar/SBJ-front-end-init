@@ -1,0 +1,66 @@
+{
+  "general": {
+    "previous": "Vorige",
+    "next": "Volgende",
+    "send": "Verzenden",
+    "chooseLanguage": "Kies uw taal",
+    "loading": "Bezig met laden...",
+    "goBack": "Ga terug",
+    "uploadFile": "Upload file",
+    "validateUniqueCode": "Valideer unieke code",
+    "unknownUniqueCode": "Uw unieke code is niet bij ons bekend of is reeds gebruikt."
+  },
+  "pageTitles": {
+    "campaignOverview": "Campagneoverzicht"
+  },
+  "campaigns": {
+    "availableCampaigns": "Beschikbare campagnes",
+    "expiredCampaigns": "Verlopen campagnes",
+    "expiredMessage": "Campagne is verlopen!"
+  },
+  "registration": {
+    "registrationForm": "Registratieformulier",
+    "confirmIban": "Bevestig uw IBAN",
+    "edit": "Bewerk uw registratie.",
+    "enterPassword": "Voer uw wachtwoord in.",
+    "incompleteFields": "Niet alle verplichte velden zijn (correct) ingevuld ",
+    "title": "Meld u hieronder aan voor de Whirlpool actie.",
+    "message": "Vul je persoonlijke gegevens in en volg de stappen. Tijdens de registratie vragen we je het aankoopbewijs te uploaden. Zodra het registratieproces is voltooid ontvang je hiervan een bevestiging per e-mail. \n \n Tijdens het verwerkingsproces houden we je op de hoogte van de status van je registratie. \n \n  Velden met <b>* zijn verplicht</b>"
+  },
+  "thankYou": {
+    "thankYou": "Bedankt!",
+    "checkYourEmail": "Uw registratie is verzonden. Controleer uw mail voor een bevestiging.",
+    "goBackButton": "Ga terug",
+    "editMessage": "Uw registratie is succesvol bijgewerkt!"
+  },
+  "errorPage": {
+    "heading": "Helaas!",
+    "somethingWentWrong": "Er is iets mis gegaan met uw registratie. Controleer of u alle velden heeft ingevuld.",
+    "editMessage": "Uw registratie niet bijgewerkt, probeer het opnieuw!"
+  },
+  "footer": {
+    "socialMedia": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "contact": "",
+    "contactLink": "",
+    "privacyAgreement": "Privacyverklaring",
+    "privacyAgreementLink": "",
+    "cookiePolicy": "Cookie-beleid",
+    "cookiePolicyLink": "",
+    "userPolicy": "Gebruiksvoorwaarden",
+    "userPolicyLink": "",
+    "copywright": ""
+  },
+  "header": {
+    "logoLink": "",
+    "home": "Startpagina"
+  },
+  "component": {
+    "filepond": {
+      "labelIdle": "<span class='filepond--label-action'>Upload bestand</span>"
+    }
+  }
+}
